@@ -1,0 +1,7 @@
+﻿  SubscriptionServer.cpp
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project1\SubscriptionServer.cpp(34,8): warning C4273: 'accept': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock2.h(1625,1): message : see previous definition of 'accept'
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project1\SubscriptionServer.cpp(378,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project1\SubscriptionServer.cpp(389,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project1\SubscriptionServer.cpp(401,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Максим\Завдання\універ\3\operating systems\ЛАБА 9\проект\Project1\x64\Debug\Project1.exe
